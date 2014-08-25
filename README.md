@@ -1,4 +1,3 @@
-a
 bedtools - a swiss army knife for genome arithmetic         
 ===================================================
 
