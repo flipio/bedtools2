@@ -1,4 +1,4 @@
-bedtools - a swiss army knife for genome arithmetic         
+ bedtools - a swiss army knife for genome arithmetic         
 ===================================================
 
 **Current version**: 2.20.1
